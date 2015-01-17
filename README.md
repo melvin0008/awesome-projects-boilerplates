@@ -3,8 +3,8 @@ Boilerplates, templates and projects for mobile and web apps.
 
 - [Awesome Projects Boilerplates](#awesome-projects-boilerplates)
     - [Websites](#websites) 
-    - [Andriod Dev](#android-dev)
-    - [IOS Dev](#ios-dev)
+    - [Andriod Development](#android-development)
+    - [IOS Development](#ios-development)
     - [Javascript](#javascript)
     - [Python](#python)
     - [Php](#php)
@@ -14,7 +14,12 @@ Boilerplates, templates and projects for mobile and web apps.
     - [IDE Templates](#ide-templates)
 - [Contributing](#contributing)
 
-## Android Dev 
+## Websites 
+
+*Boilerplates, templates and projects for Android*
+
+
+## Android Development 
 
 *Boilerplates, templates and projects for Android*
 - [Boilerplate Android](#bolierplate-android)
@@ -24,3 +29,37 @@ Boilerplates, templates and projects for mobile and web apps.
 - [Projects Androdid](#projects-android)
     - [Otto](https://github.com/square/otto) An enhanced Guava-based event bus with emphasis on Android support. 
     - [u2020](https://github.com/JakeWharton/u2020) A sample Android app which showcases advanced usage of Dagger among other open source libraries.
+
+## IOS Development 
+
+*Boilerplates, templates and projects for IOS*
+
+## Javascript 
+
+*Boilerplates, templates and projects for Javascript*
+
+## Python 
+
+*Boilerplates, templates and projects for Python*
+
+## PHP 
+
+*Boilerplates, templates and projects for Php*
+
+## Ruby 
+
+*Boilerplates, templates and projects for Ruby*
+
+##  Chrome App/Extension
+
+*Boilerplates, templates and projects for Chrome*
+
+##  Firefox App/Extension
+
+*Boilerplates, templates and projects for Firefox*
+
+##  IDE
+
+*Templating Systems for Different IDE's*
+
+- [Yasnippet](https://github.com/capitaomorte/yasnippet) A template system for Emacs.
