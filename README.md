@@ -1,5 +1,5 @@
 # awesome-boilerplates
-Boilerplates, templates and projects for mobile and web apps. Inspired by [awesome-python](https://github.com/vinta/awesome-python).
+Boilerplates, templates and simple projects for mobile and web application developers. Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
 - [Awesome Projects Boilerplates](#awesome-projects-boilerplates)
     - [Websites](#websites) 
@@ -51,6 +51,19 @@ Android Guide.
 ## Python 
 
 *Boilerplates, templates and projects for Python*
+- [Boilerplate Python](#bolierplate-python)
+    - [CookieCutter](https://github.com/audreyr/cookiecutter#python) List of various python templates by Audrey. 
+    - [bootstrapy](https://github.com/kirang89/bootstrapy) A bootstrap Python application, so that you can focus on writing code.
+    - [Fbone](https://github.com/imwilsonxu/fbone)Fbone (Flask bone) is a Flask (Python microframework) template/bootstrap/boilerplate application.
+    - [Flask-Bootstrap](https://github.com/esbullington/flask-bootstrap) A Flask app template with integrated SQLAlchemy, authentication, and Bootstrap frontend.
+    - [Flask Boilerplate](https://github.com/melvin0008/FlaskBoilerplate) A very simple flask boilerplate with folder structures.
+    - [Flask Foundation](https://github.com/JackStouffer/Flask-Foundation) App built with best practices.
+    - [fafafa](https://github.com/fordaaronj/fafafa)Flask / Angular / Foundation Boilerplate
+- [Projects Python](#projects-python)
+    - [Awesome Django Projects](https://github.com/rosarior/awesome-django#projects) List of outstanding Django projects.
+    - [Blog using Flask and Angular](https://github.com/basco-johnkevin/building-a-blog-using-flask-and-angularjs) Simple blog application built using Flask and AngularJS.
+    - [Flask Backbone Mongo](https://github.com/jamescasbon/flask-backbone-mongo)Experiments with backbone.js, flask and mongo.
+    
 
 ## PHP 
 
