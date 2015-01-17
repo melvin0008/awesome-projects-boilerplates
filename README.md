@@ -39,8 +39,9 @@ Boilerplates, templates and simple projects for mobile and web application devel
     - [Beginning Android Resources](https://github.com/codepath/android_guides/wiki/Beginning-Android-Resources)
 Android Guide.
     - [Android Webview Sample App](https://github.com/tscolari/android-webview-sample-app) Webview Sample App
-## IOS Development.
     -[Android Quickstart](https://github.com/googledrive/android-quickstart) Quickstart application showing the Google Drive API for Android.
+
+## IOS Development.
 
 *Boilerplates, templates and projects for IOS*
 
