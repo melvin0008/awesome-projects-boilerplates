@@ -1,5 +1,5 @@
 # awesome-boilerplates
-Boilerplates, templates and projects for mobile and web apps. 
+Boilerplates, templates and projects for mobile and web apps. Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
 - [Awesome Projects Boilerplates](#awesome-projects-boilerplates)
     - [Websites](#websites) 
@@ -73,3 +73,8 @@ Android Guide.
 *Templating Systems for Different IDE's*
 
 - [Yasnippet](https://github.com/capitaomorte/yasnippet) A template system for Emacs.
+
+
+# [Contributing](https://github.com/melvin0008/awesome-julia/blob/master/CONTRIBUTIONS.md)
+
+Your contributions are always welcome!
