@@ -52,8 +52,10 @@ Android Guide.
 *Boilerplates, templates and projects for Javascript*
 - [Boilerplate JS](#boilerplate-js)
     - [Angular Laravel CouchDB](https://github.com/melvin0008/laravel-angular) Angular Laravel CouchDB Boilerplate
-    - [fafafa](https://github.com/fordaaronj/fafafa)Angular / Flask / Foundation Boilerplate
+    - [fafafa](https://github.com/fordaaronj/fafafa)Angular / Flask / Foundation Boilerplate.
 - [Projects JS](#projects-js)
+    - [Todomvc Backbone](https://github.com/addyosmani/todomvc-backbone-es6) Todo example built with backbone.js.
+    - [Yeoman Examples](https://github.com/addyosmani/yeoman-examples) Yeoman Examples.
 
 
 ## Python 
