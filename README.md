@@ -18,7 +18,7 @@ Boilerplates, templates and simple projects for mobile and web application devel
 
 *Boilerplates, templates and projects for Websites*
 - [Web Starter Kit](https://github.com/google/web-starter-kit) Web starter kit by google.
-- []()
+
 
 
 ## Android Development 
@@ -87,7 +87,7 @@ Android Guide.
 
 *Boilerplates, templates and projects for Php*
 - [Boilerplate PHP](#boilerplate-php)
-    -[Laravel Angular CouchDB](https://github.com/melvin0008/laravel-angular) Laravel Angular CouchDB Boilerplate
+    - [Laravel Angular CouchDB](https://github.com/melvin0008/laravel-angular) Laravel Angular CouchDB Boilerplate
 - [Projects PHP](#projects-php)
 
 ## Ruby 
@@ -101,7 +101,7 @@ Android Guide.
 
 *Boilerplates, templates and projects for Chrome*
 - [Boilerplate Chrome](#boilerplate-chrome)
-    -[Generaor ChromeApp](https://github.com/yeoman/generator-chromeapp) Yeoman generator for chrome app   
+    - [Generaor ChromeApp](https://github.com/yeoman/generator-chromeapp) Yeoman generator for chrome app   
 - [Projects Chrome](#projects-chrome)
 
 ##  Firefox App/Extension
