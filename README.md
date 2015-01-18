@@ -23,7 +23,7 @@ Boilerplates, templates and simple projects for mobile and web application devel
 ## Android Development 
 
 *Boilerplates, templates and projects for Android*
-- [Boilerplate Android](#bolierplate-android)
+- [Boilerplate Android](#boilerplate-android)
     - [Android Bootstrap](https://github.com/AndroidBootstrap/android-bootstrap)
     - [Android Material Drawer Template](https://github.com/kanytu/android-material-drawer-template) An Android template with navigation drawer for material design.
     - [Web Apps](https://github.com/h5bp/mobile-boilerplate) Boilerplate for mobile web apps.
@@ -44,20 +44,20 @@ Android Guide.
 ## IOS Development.
 
 *Boilerplates, templates and projects for IOS*
-- [Boilerplate IOS](#bolierplate-ios)
+- [Boilerplate IOS](#boilerplate-ios)
 - [Projects IOS](#projects-ios)
 
 ## Javascript 
 
 *Boilerplates, templates and projects for Javascript*
-- [Boilerplate JS](#bolierplate-js)
+- [Boilerplate JS](#boilerplate-js)
 - [Projects JS](#projects-js)
 
 
 ## Python 
 
 *Boilerplates, templates and projects for Python*
-- [Boilerplate Python](#bolierplate-python)
+- [Boilerplate Python](#boilerplate-python)
     - [CookieCutter](https://github.com/audreyr/cookiecutter#python) List of various python templates by Audrey. 
     - [bootstrapy](https://github.com/kirang89/bootstrapy) A bootstrap Python application, so that you can focus on writing code.
     - [Fbone](https://github.com/imwilsonxu/fbone)Fbone (Flask bone) is a Flask (Python microframework) template/bootstrap/boilerplate application.
@@ -74,26 +74,26 @@ Android Guide.
 ## PHP 
 
 *Boilerplates, templates and projects for Php*
-- [Boilerplate PHP](#bolierplate-php)
+- [Boilerplate PHP](#boilerplate-php)
 - [Projects PHP](#projects-php)
 
 ## Ruby 
 
 *Boilerplates, templates and projects for Ruby*
-- [Boilerplate Ruby](#bolierplate-ruby)
+- [Boilerplate Ruby](#boilerplate-ruby)
 - [Projects Ruby](#projects-ruby)
 
 
 ##  Chrome App/Extension
 
 *Boilerplates, templates and projects for Chrome*
-- [Boilerplate Chrome](#bolierplate-chrome)
+- [Boilerplate Chrome](#boilerplate-chrome)
 - [Projects Chrome](#projects-chrome)
 
 ##  Firefox App/Extension
 
 *Boilerplates, templates and projects for Firefox*
-- [Boilerplate Firefox](#bolierplate-firefox)
+- [Boilerplate Firefox](#boilerplate-firefox)
 - [Projects Firefox](#projects-firefox)
 
 ##  IDE
