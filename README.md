@@ -18,6 +18,7 @@ Boilerplates, templates and simple projects for mobile and web application devel
 
 *Boilerplates, templates and projects for Websites*
 - [Web Starter Kit](https://github.com/google/web-starter-kit) Web starter kit by google.
+- []()
 
 
 ## Android Development 
@@ -53,9 +54,16 @@ Android Guide.
 - [Boilerplate JS](#boilerplate-js)
     - [Angular Laravel CouchDB](https://github.com/melvin0008/laravel-angular) Angular Laravel CouchDB Boilerplate
     - [fafafa](https://github.com/fordaaronj/fafafa)Angular / Flask / Foundation Boilerplate.
+    - [Backbone Boilerplate](https://github.com/backbone-boilerplate/generator-bbb) Yeoman generator for Backbone.
+    - [Ember](https://github.com/yeoman/generator-ember) Yeoman generator for Ember.js
+    - [Backbone Boilerplates](https://github.com/addyosmani/backbone-boilerplates) Backbone Boilerplates by Addy Osmani.
+    - [Generator Jquery Boilerplate](https://github.com/jquery-boilerplate/generator-jquery-boilerplate) Yeoman Generator for jQuery Boilerplate.
+    - [Polymer Boilerplate](https://github.com/addyosmani/polymer-boilerplate) Boilerplate for Polymer.js.
+
 - [Projects JS](#projects-js)
     - [Todomvc Backbone](https://github.com/addyosmani/todomvc-backbone-es6) Todo example built with backbone.js.
     - [Yeoman Examples](https://github.com/addyosmani/yeoman-examples) Yeoman Examples.
+    - [Largescale Demo](https://github.com/addyosmani/largescale-demo) Scalable JS architecture demo for #jqcon
 
 
 ## Python 
@@ -93,6 +101,7 @@ Android Guide.
 
 *Boilerplates, templates and projects for Chrome*
 - [Boilerplate Chrome](#boilerplate-chrome)
+    -[Generaor ChromeApp](https://github.com/yeoman/generator-chromeapp) Yeoman generator for chrome app   
 - [Projects Chrome](#projects-chrome)
 
 ##  Firefox App/Extension
