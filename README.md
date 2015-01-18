@@ -39,7 +39,7 @@ Boilerplates, templates and simple projects for mobile and web application devel
     - [Beginning Android Resources](https://github.com/codepath/android_guides/wiki/Beginning-Android-Resources)
 Android Guide.
     - [Android Webview Sample App](https://github.com/tscolari/android-webview-sample-app) Webview Sample App
-    -[Android Quickstart](https://github.com/googledrive/android-quickstart) Quickstart application showing the Google Drive API for Android.
+    - [Android Quickstart](https://github.com/googledrive/android-quickstart) Quickstart application showing the Google Drive API for Android.
 
 ## IOS Development.
 
@@ -51,6 +51,8 @@ Android Guide.
 
 *Boilerplates, templates and projects for Javascript*
 - [Boilerplate JS](#boilerplate-js)
+    - [Angular Laravel CouchDB](https://github.com/melvin0008/laravel-angular) Angular Laravel CouchDB Boilerplate
+    - [fafafa](https://github.com/fordaaronj/fafafa)Angular / Flask / Foundation Boilerplate
 - [Projects JS](#projects-js)
 
 
@@ -75,6 +77,7 @@ Android Guide.
 
 *Boilerplates, templates and projects for Php*
 - [Boilerplate PHP](#boilerplate-php)
+    -[Laravel Angular CouchDB](https://github.com/melvin0008/laravel-angular) Laravel Angular CouchDB Boilerplate
 - [Projects PHP](#projects-php)
 
 ## Ruby 
