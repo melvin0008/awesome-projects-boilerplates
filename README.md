@@ -94,6 +94,7 @@ Android Guide.
 
 *Boilerplates, templates and projects for Ruby*
 - [Boilerplate Ruby](#boilerplate-ruby)
+    - [Angular Rails Templates](https://github.com/pitr/angular-rails-templates) Rails and Angular Tempate.  
 - [Projects Ruby](#projects-ruby)
 
 
