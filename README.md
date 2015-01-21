@@ -119,6 +119,7 @@ Android Guide.
 *Templating Systems for Different IDE's*
 
 - [Yasnippet](https://github.com/capitaomorte/yasnippet) A template system for Emacs.
+- [Vim Template](https://github.com/aperezdc/vim-template) Simple Vim Templates plugin.
 
 
 # [Contributing](https://github.com/melvin0008/awesome-julia/blob/master/CONTRIBUTIONS.md)
