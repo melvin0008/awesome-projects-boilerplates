@@ -95,7 +95,9 @@ Android Guide.
 *Boilerplates, templates and projects for Ruby*
 - [Boilerplate Ruby](#boilerplate-ruby)
     - [AngularJS Rails Templates](https://github.com/pitr/angular-rails-templates) Rails and Angular Tempate.  
-    - [AngularJS Sinatra Bootstrap](https://github.com/dannolan/angularjs-sinatra-bootstrap-template) Angular Sinatra Bootstrap template
+    - [AngularJS Sinatra Bootstrap](https://github.com/dannolan/angularjs-sinatra-bootstrap-template) Angular Sinatra Bootstrap template.
+    - [Rails Composer](http://railsapps.github.io/rails-composer/) Use Rails Composer to generate any of the example applications from the RailsApps project.
+    - [Rails Bootstrap](https://github.com/RailsApps/rails-bootstrap) Starter App for Rails and Bootstrap 
 - [Projects Ruby](#projects-ruby)
 
 
