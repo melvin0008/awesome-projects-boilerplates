@@ -89,6 +89,7 @@ Android Guide.
 - [Boilerplate PHP](#boilerplate-php)
     - [Laravel Angular CouchDB](https://github.com/melvin0008/laravel-angular) Laravel Angular CouchDB Boilerplate
 - [Projects PHP](#projects-php)
+    - [Invoice Ninja](https://github.com/hillelcoren/invoice-ninja) A complete Laravel Application. 
 
 ## Ruby 
 
