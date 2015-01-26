@@ -90,6 +90,8 @@ Android Guide.
     - [Laravel Angular CouchDB](https://github.com/melvin0008/laravel-angular) Laravel Angular CouchDB Boilerplate
 - [Projects PHP](#projects-php)
     - [Invoice Ninja](https://github.com/hillelcoren/invoice-ninja) A complete Laravel Application. 
+    - [Laravel Snippets](https://github.com/basco-johnkevin/laravelsnippets) Code of [www.laravelsnippets.com](www.laravelsnippets.com).
+    - [URL-Shortener](https://github.com/laracasts/URL-Shortener) URL shortener by Jeffrey Way.
 
 ## Ruby 
 
