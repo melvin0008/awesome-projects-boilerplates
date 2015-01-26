@@ -64,6 +64,7 @@ Android Guide.
     - [Todomvc Backbone](https://github.com/addyosmani/todomvc-backbone-es6) Todo example built with backbone.js.
     - [Yeoman Examples](https://github.com/addyosmani/yeoman-examples) Yeoman Examples.
     - [Largescale Demo](https://github.com/addyosmani/largescale-demo) Scalable JS architecture demo for #jqcon
+    - [AngularJS Projects](https://github.com/angular/angular.js/wiki/Projects-using-AngularJS) A list of AngularJS projects. 
 
 
 ## Python 
