@@ -46,7 +46,11 @@ Android Guide.
 
 *Boilerplates, templates and projects for IOS*
 - [Boilerplate IOS](#boilerplate-ios)
+    - [iOS Biolerplate](https://github.com/gimenete/iOS-boilerplate) Boilerplate by Gimeno.
+    - [Boilerplate-iOS](https://github.com/openaphid/Boilerplate-iOS) Boilerplate by openaphid.
 - [Projects IOS](#projects-ios)
+    - [Open Source IOS apps](https://github.com/dkhamsing/open-source-ios-apps)  Open source Apps which are also available on app store.
+    - [Non App store iOS apps](https://github.com/dkhamsing/open-source-ios-apps/blob/master/non-app-store-ios-apps.md) Open source Apps which are not available on app store.
 
 ## Javascript 
 
