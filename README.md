@@ -47,6 +47,7 @@ Android Guide.
 *Boilerplates, templates and projects for IOS*
 - [Boilerplate IOS](#boilerplate-ios)
     - [iOS Biolerplate](https://github.com/gimenete/iOS-boilerplate) Boilerplate by Gimeno.
+    - [Amaro](https://github.com/crushlovely/Amaro) Featureful iOS Boilerplate.
     - [Boilerplate-iOS](https://github.com/openaphid/Boilerplate-iOS) Boilerplate by openaphid.
 - [Projects IOS](#projects-ios)
     - [Open Source IOS apps](https://github.com/dkhamsing/open-source-ios-apps)  Open source Apps which are also available on app store.
