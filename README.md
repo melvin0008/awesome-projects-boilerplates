@@ -18,6 +18,10 @@ Boilerplates, templates and simple projects for mobile and web application devel
 
 *Boilerplates, templates and projects for Websites*
 - [Web Starter Kit](https://github.com/google/web-starter-kit) Web starter kit by google.
+- [Open Designs](http://www.opendesigns.org/) 
+- [Open Web Design](http://www.openwebdesign.org/)
+- [OSWD](http://www.oswd.org/)
+- [Opensource Templates](http://opensourcetemplates.org/)
 
 
 
