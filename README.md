@@ -2,7 +2,6 @@
 Boilerplates, templates and simple projects for mobile and web application developers. Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
 - [Awesome Projects Boilerplates](#awesome-projects-boilerplates)
-    - [Websites](#websites) 
     - [Andriod Development](#android-development)
     - [IOS Development](#ios-development)
     - [Javascript](#javascript)
@@ -11,17 +10,9 @@ Boilerplates, templates and simple projects for mobile and web application devel
     - [Ruby](#ruby)
     - [Chrome App/Extension](#chrome-app/Extension)
     - [Firefox App/Extension](#firefox-app/Extension)
+    - [Websites](#websites) 
     - [IDE Templates](#ide-templates)
 - [Contributing](#contributing)
-
-## Websites 
-
-*Boilerplates, templates and projects for Websites*
-- [Web Starter Kit](https://github.com/google/web-starter-kit) Web starter kit by google.
-- [Open Designs](http://www.opendesigns.org/) 
-- [Open Web Design](http://www.openwebdesign.org/)
-- [OSWD](http://www.oswd.org/)
-- [Opensource Templates](http://opensourcetemplates.org/)
 
 
 
@@ -126,6 +117,18 @@ Android Guide.
 *Boilerplates, templates and projects for Firefox*
 - [Boilerplate Firefox](#boilerplate-firefox)
 - [Projects Firefox](#projects-firefox)
+
+
+## Websites 
+
+*Boilerplates, templates and projects for Websites*
+- [Web Starter Kit](https://github.com/google/web-starter-kit) Web starter kit by google.
+- [Open Designs](http://www.opendesigns.org/) 
+- [Open Web Design](http://www.openwebdesign.org/)
+- [OSWD](http://www.oswd.org/)
+- [Opensource Templates](http://opensourcetemplates.org/)
+
+
 
 ##  IDE
 
