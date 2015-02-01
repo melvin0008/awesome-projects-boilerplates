@@ -122,6 +122,7 @@ Android Guide.
 ## Websites 
 
 *Boilerplates, templates and projects for Websites*
+- [Meteor boilerplate](https://github.com/Differential/meteor-boilerplate) Boilerplate for meteor framework.
 - [Web Starter Kit](https://github.com/google/web-starter-kit) Web starter kit by google.
 - [Open Designs](http://www.opendesigns.org/) 
 - [Open Web Design](http://www.openwebdesign.org/)
