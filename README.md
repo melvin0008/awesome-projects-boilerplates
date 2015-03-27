@@ -27,6 +27,7 @@ Boilerplates, templates and simple projects for mobile and web application devel
     - [AndroidKickststarter](https://github.com/e-biz/androidkickstartr) Framework kickstarts development which help you focus on coding.
     - [Android Annotations](https://github.com/excilys/androidannotations) Fast Android Development. Easy maintainance.
 - [Projects Androdid](#projects-android)
+    - [Open Source Android Apps](https://github.com/pcqpcq/open-source-android-apps) Open source Android Apps. 
     - [Android Cookbook Examples](https://github.com/IanDarwin/Android-Cookbook-Examples) Collected code examples from the O'Reilly Android Cookbook.
     - [Android Basic Samples](https://github.com/playgameservices/android-basic-samples) Mostly game oriented samples. 
     - [Otto](https://github.com/square/otto) An enhanced Guava-based event bus with emphasis on Android support. 
