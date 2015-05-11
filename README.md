@@ -60,7 +60,7 @@ Android Guide.
     - [Backbone Boilerplates](https://github.com/addyosmani/backbone-boilerplates) Backbone Boilerplates by Addy Osmani.
     - [Generator Jquery Boilerplate](https://github.com/jquery-boilerplate/generator-jquery-boilerplate) Yeoman Generator for jQuery Boilerplate.
     - [Polymer Boilerplate](https://github.com/addyosmani/polymer-boilerplate) Boilerplate for Polymer.js.
-
+    - [Electron Boilerplate](https://github.com/sindresorhus/electron-boilerplate) Boilerplate for electron-node
 - [Projects JS](#projects-js)
     - [Todomvc Backbone](https://github.com/addyosmani/todomvc-backbone-es6) Todo example built with backbone.js.
     - [Yeoman Examples](https://github.com/addyosmani/yeoman-examples) Yeoman Examples.
