@@ -1,5 +1,4 @@
 # awesome-projects-boilerplates
-Boilerplates, templates and simple projects for mobile and web application developers. Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
 - [Awesome Projects Boilerplates](#awesome-projects-boilerplates)
     - [Andriod Development](#android-development)
