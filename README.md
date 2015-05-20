@@ -1,11 +1,11 @@
 # awesome-projects-boilerplates
 
 - [Awesome Projects Boilerplates](#awesome-projects-boilerplates)
-    - [Andriod Development](#android-development)
-    - [IOS Development](#ios-development)
+    - [Android Development](#android-development)
+    - [iOS Development](#ios-development)
     - [Javascript](#javascript)
     - [Python](#python)
-    - [Php](#php)
+    - [PHP](#php)
     - [Ruby](#ruby)
     - [Chrome App/Extension](#chrome-app/Extension)
     - [Firefox App/Extension](#firefox-app/Extension)
@@ -25,7 +25,7 @@
     - [material-design-icons-adt-template](https://github.com/intrications/material-design-icons-adt-template) Android Studio / Eclipse ADT template for material-design-icons resources.
     - [AndroidKickststarter](https://github.com/e-biz/androidkickstartr) Framework kickstarts development which help you focus on coding.
     - [Android Annotations](https://github.com/excilys/androidannotations) Fast Android Development. Easy maintainance.
-- [Projects Androdid](#projects-android)
+- [Projects Android](#projects-android)
     - [Open Source Android Apps](https://github.com/pcqpcq/open-source-android-apps) Open source Android Apps. 
     - [Android Cookbook Examples](https://github.com/IanDarwin/Android-Cookbook-Examples) Collected code examples from the O'Reilly Android Cookbook.
     - [Android Basic Samples](https://github.com/playgameservices/android-basic-samples) Mostly game oriented samples. 
@@ -72,17 +72,18 @@ Android Guide.
 
 *Boilerplates, templates and projects for Python*
 - [Boilerplate Python](#boilerplate-python)
+    - [Django Hackathon Starter](https://github.com/DrkSephy/django-hackathon-starter) A boilerplate for Django web applications, providing various social logins and several popular API examples.
     - [CookieCutter](https://github.com/audreyr/cookiecutter#python) List of various python templates by Audrey. 
     - [bootstrapy](https://github.com/kirang89/bootstrapy) A bootstrap Python application, so that you can focus on writing code.
-    - [Fbone](https://github.com/imwilsonxu/fbone)Fbone (Flask bone) is a Flask (Python microframework) template/bootstrap/boilerplate application.
+    - [Fbone](https://github.com/imwilsonxu/fbone) Fbone (Flask bone) is a Flask (Python microframework) template/bootstrap/boilerplate application.
     - [Flask-Bootstrap](https://github.com/esbullington/flask-bootstrap) A Flask app template with integrated SQLAlchemy, authentication, and Bootstrap frontend.
     - [Flask Boilerplate](https://github.com/melvin0008/FlaskBoilerplate) A very simple flask boilerplate with folder structures.
     - [Flask Foundation](https://github.com/JackStouffer/Flask-Foundation) App built with best practices.
-    - [fafafa](https://github.com/fordaaronj/fafafa)Flask / Angular / Foundation Boilerplate
+    - [fafafa](https://github.com/fordaaronj/fafafa) Flask / Angular / Foundation Boilerplate
 - [Projects Python](#projects-python)
     - [Awesome Django Projects](https://github.com/rosarior/awesome-django#projects) List of outstanding Django projects.
     - [Blog using Flask and Angular](https://github.com/basco-johnkevin/building-a-blog-using-flask-and-angularjs) Simple blog application built using Flask and AngularJS.
-    - [Flask Backbone Mongo](https://github.com/jamescasbon/flask-backbone-mongo)Experiments with backbone.js, flask and mongo.
+    - [Flask Backbone Mongo](https://github.com/jamescasbon/flask-backbone-mongo) Experiments with backbone.js, flask and mongo.
     
 
 ## PHP 
