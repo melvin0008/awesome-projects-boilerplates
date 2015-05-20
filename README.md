@@ -1,11 +1,11 @@
 # awesome-projects-boilerplates
 
 - [Awesome Projects Boilerplates](#awesome-projects-boilerplates)
-    - [Andriod Development](#android-development)
-    - [IOS Development](#ios-development)
+    - [Android Development](#android-development)
+    - [iOS Development](#ios-development)
     - [Javascript](#javascript)
     - [Python](#python)
-    - [Php](#php)
+    - [PHP](#php)
     - [Ruby](#ruby)
     - [Chrome App/Extension](#chrome-app/Extension)
     - [Firefox App/Extension](#firefox-app/Extension)
