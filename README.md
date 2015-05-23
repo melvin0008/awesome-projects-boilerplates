@@ -84,6 +84,7 @@ Android Guide.
     - [Awesome Django Projects](https://github.com/rosarior/awesome-django#projects) List of outstanding Django projects.
     - [Blog using Flask and Angular](https://github.com/basco-johnkevin/building-a-blog-using-flask-and-angularjs) Simple blog application built using Flask and AngularJS.
     - [Flask Backbone Mongo](https://github.com/jamescasbon/flask-backbone-mongo) Experiments with backbone.js, flask and mongo.
+    - [Flask Appengine Template](https://github.com/kamalgill/flask-appengine-template) Flask App engine Template
     
 
 ## PHP 
