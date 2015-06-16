@@ -61,7 +61,7 @@ Android Guide.
     - [Polymer Boilerplate](https://github.com/addyosmani/polymer-boilerplate) Boilerplate for Polymer.js.
     - [Electron Boilerplate](https://github.com/sindresorhus/electron-boilerplate) Boilerplate for electron-node
 - [Projects JS](#projects-js)
-    - [Todomvc Backbone](https://github.com/addyosmani/todomvc-backbone-es6) Todo example built with backbone.js.
+    - [Todomvc Backbone](https://github.com/tastejs/todomvc-backbone-es6) Todo example built with backbone.js.
     - [Yeoman Examples](https://github.com/addyosmani/yeoman-examples) Yeoman Examples.
     - [Largescale Demo](https://github.com/addyosmani/largescale-demo) Scalable JS architecture demo for #jqcon
     - [AngularJS Projects](https://github.com/angular/angular.js/wiki/Projects-using-AngularJS) A list of AngularJS projects. 
