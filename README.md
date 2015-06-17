@@ -81,6 +81,7 @@ Android Guide.
     - [Flask Boilerplate](https://github.com/melvin0008/FlaskBoilerplate) A very simple flask boilerplate with folder structures.
     - [Flask Foundation](https://github.com/JackStouffer/Flask-Foundation) App built with best practices.
     - [fafafa](https://github.com/fordaaronj/fafafa) Flask / Angular / Foundation Boilerplate
+    - [GoogleAppEngine Webapp2 Boilerplate](https://github.com/coto/gae-boilerplate) A Complete boilerplate for Python Webapp2 on Google App Engine
 - [Projects Python](#projects-python)
     - [Awesome Django Projects](https://github.com/rosarior/awesome-django#projects) List of outstanding Django projects.
     - [Blog using Flask and Angular](https://github.com/basco-johnkevin/building-a-blog-using-flask-and-angularjs) Simple blog application built using Flask and AngularJS.
