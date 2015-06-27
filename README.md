@@ -55,7 +55,6 @@ Android Guide.
     - [Angular Laravel CouchDB](https://github.com/melvin0008/laravel-angular) Angular Laravel CouchDB Boilerplate
     - [fafafa](https://github.com/fordaaronj/fafafa)Angular / Flask / Foundation Boilerplate.
     - [Backbone Boilerplate](https://github.com/backbone-boilerplate/generator-bbb) Yeoman generator for Backbone.
-    - [Ember](https://github.com/yeoman/generator-ember) Yeoman generator for Ember.js
     - [Backbone Boilerplates](https://github.com/addyosmani/backbone-boilerplates) Backbone Boilerplates by Addy Osmani.
     - [Generator Jquery Boilerplate](https://github.com/jquery-boilerplate/generator-jquery-boilerplate) Yeoman Generator for jQuery Boilerplate.
     - [Polymer Boilerplate](https://github.com/addyosmani/polymer-boilerplate) Boilerplate for Polymer.js.
