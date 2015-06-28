@@ -126,7 +126,7 @@ Android Guide.
 ## Websites 
 
 *Boilerplates, templates and projects for Websites*
-- [HTML5 Biolerplate](https://html5boilerplate.com/) Web's most popular frontend template
+- [HTML5 Boilerplate](https://html5boilerplate.com/) Web's most popular front-end template
 - [Meteor boilerplate](https://github.com/Differential/meteor-boilerplate) Boilerplate for meteor framework.
 - [Web Starter Kit](https://github.com/google/web-starter-kit) Web starter kit by google.
 - [Open Designs](http://www.opendesigns.org/) Open Source WebDesign Templates
