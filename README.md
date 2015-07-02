@@ -141,6 +141,6 @@ Android Guide.
 - [Vim Template](https://github.com/aperezdc/vim-template) Simple Vim Templates plugin.
 
 
-# [Contributing](https://github.com/melvin0008/awesome-projects-boilerplates/blob/master/CONTRIBUTIONS.MD)
+# [Contributing](https://github.com/melvin0008/awesome-projects-boilerplates/blob/master/CONTRIBUTING.MD)
 
 Your contributions are always welcome!
