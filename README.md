@@ -58,6 +58,7 @@ Android Guide.
     - [Backbone Boilerplates](https://github.com/addyosmani/backbone-boilerplates) Backbone Boilerplates by Addy Osmani.
     - [Generator Jquery Boilerplate](https://github.com/jquery-boilerplate/generator-jquery-boilerplate) Yeoman Generator for jQuery Boilerplate.
     - [Polymer Starter Kit](https://github.com/PolymerElements/polymer-starter-kit) A starting point for Polymer 1.0 apps.
+    - [Polymer Seed Element](https://github.com/PolymerElements/seed-element) An element providing a starting point for your own reusable Polymer elements.
     - [Electron Boilerplate](https://github.com/sindresorhus/electron-boilerplate) Boilerplate for electron-node
     - [Express Boilerplate](https://github.com/expressjs/generator) Boilerplate generator for Express.js Projects
 - [Projects JS](#projects-js)
