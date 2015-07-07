@@ -132,6 +132,7 @@ Android Guide.
 - [Web Starter Kit](https://github.com/google/web-starter-kit) Web starter kit by Google.
 - [Open Designs](http://www.opendesigns.org/) Open Source WebDesign Templates
 - [Open Web Design](http://www.openwebdesign.org/) Community of designers and site owners sharing free web design templates
+- [Polymer Starter Kit](https://github.com/PolymerElements/polymer-starter-kit) A starting point for Polymer 1.0 apps 
 - [OSWD](http://www.oswd.org/) Platform for sharing standards-compliant free web design templates
 
 ##  IDE
