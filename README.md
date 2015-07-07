@@ -146,3 +146,9 @@ Android Guide.
 # [Contributing](https://github.com/melvin0008/awesome-projects-boilerplates/blob/master/CONTRIBUTING.MD)
 
 Your contributions are always welcome!
+
+## License
+
+[![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
+
+To the extent possible under law, [Melvin Philips](http://melvinphilips.com) has waived all copyright and related or neighboring rights to this work.
