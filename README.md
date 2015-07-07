@@ -57,7 +57,7 @@ Android Guide.
     - [Backbone Boilerplate](https://github.com/backbone-boilerplate/generator-bbb) Yeoman generator for Backbone.
     - [Backbone Boilerplates](https://github.com/addyosmani/backbone-boilerplates) Backbone Boilerplates by Addy Osmani.
     - [Generator Jquery Boilerplate](https://github.com/jquery-boilerplate/generator-jquery-boilerplate) Yeoman Generator for jQuery Boilerplate.
-    - [Polymer Boilerplate](https://github.com/addyosmani/polymer-boilerplate) Boilerplate for Polymer.js.
+    - [Polymer Starter Kit](https://github.com/PolymerElements/polymer-starter-kit) A starting point for Polymer 1.0 apps.
     - [Electron Boilerplate](https://github.com/sindresorhus/electron-boilerplate) Boilerplate for electron-node
     - [Express Boilerplate](https://github.com/expressjs/generator) Boilerplate generator for Express.js Projects
 - [Projects JS](#projects-js)
@@ -132,7 +132,6 @@ Android Guide.
 - [Web Starter Kit](https://github.com/google/web-starter-kit) Web starter kit by Google.
 - [Open Designs](http://www.opendesigns.org/) Open Source WebDesign Templates
 - [Open Web Design](http://www.openwebdesign.org/) Community of designers and site owners sharing free web design templates
-- [Polymer Starter Kit](https://github.com/PolymerElements/polymer-starter-kit) A starting point for Polymer 1.0 apps 
 - [OSWD](http://www.oswd.org/) Platform for sharing standards-compliant free web design templates
 
 ##  IDE
