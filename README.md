@@ -91,7 +91,7 @@ Android Guide.
 
 ## PHP 
 
-*Boilerplates, templates and projects for Php*
+*Boilerplates, templates and projects for PHP*
 - [Boilerplate PHP](#boilerplate-php)
     - [Laravel Angular CouchDB](https://github.com/melvin0008/laravel-angular) Laravel Angular CouchDB Boilerplate
 - [Projects PHP](#projects-php)
