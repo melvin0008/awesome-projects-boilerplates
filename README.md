@@ -52,6 +52,7 @@ Android Guide.
 
 *Boilerplates, templates and projects for Javascript*
 - [Boilerplate JS](#boilerplate-js)
+    - [ng-boilerplate](https://github.com/ngbp/ngbp) An opinionated kickstarter for AngularJS projects. 
     - [Angular Laravel CouchDB](https://github.com/melvin0008/laravel-angular) Angular Laravel CouchDB Boilerplate
     - [fafafa](https://github.com/fordaaronj/fafafa) Angular / Flask / Foundation Boilerplate.
     - [Backbone Boilerplate](https://github.com/backbone-boilerplate/generator-bbb) Yeoman generator for Backbone.
