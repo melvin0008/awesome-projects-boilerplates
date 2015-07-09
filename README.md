@@ -67,7 +67,10 @@ Android Guide.
     - [Largescale Demo](https://github.com/addyosmani/largescale-demo) Scalable JS architecture demo for #jqcon
     - [AngularJS Projects](https://github.com/angular/angular.js/wiki/Projects-using-AngularJS) A list of AngularJS projects. 
     - [Node JS Project](https://github.com/melvin0008/Pictionary) A node JS application to learn concepts of nodejs and socketio
+    - [React Boilerplate](https://github.com/petehunt/react-boilerplate) Boilerplate for creating a React npm package
+    - [React Boilerplate](https://github.com/rackt/react-boilerplate) React boilerplate with React Router and webpack
     - [React JS Hot loader Boilerplates](https://github.com/gaearon/react-hot-loader/tree/master/docs#starter-kits) React hot loader starter kits
+    
 
 
 ## Python 
