@@ -4,6 +4,7 @@
     - [Android Development](#android-development)
     - [iOS Development](#ios-development)
     - [Javascript](#javascript)
+    - [Hybrid Mobile App Frameworks](#hybrid-mobile-app-frameworks)
     - [Python](#python)
     - [PHP](#php)
     - [Ruby](#ruby)
