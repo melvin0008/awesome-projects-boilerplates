@@ -8,6 +8,7 @@
     - [Python](#python)
     - [PHP](#php)
     - [Ruby](#ruby)
+    - [.NET](#.net)
     - [Chrome App/Extension](#chrome-app/Extension)
     - [Firefox App/Extension](#firefox-app/Extension)
     - [Websites](#websites) 
@@ -73,6 +74,12 @@ Android Guide.
     - [AngularJS Projects](https://github.com/angular/angular.js/wiki/Projects-using-AngularJS) A list of AngularJS projects. 
     - [Node JS Project](https://github.com/melvin0008/Pictionary) A node JS application to learn concepts of nodejs and socketio
 
+
+## Hybrid Mobile App Frameworks 
+
+*Boilerplates, templates and projects for Hybrid Mobile App Frameworks*
+
+
 ## Python 
 
 *Boilerplates, templates and projects for Python*
@@ -112,6 +119,13 @@ Android Guide.
     - [Rails Composer](http://railsapps.github.io/rails-composer/) Use Rails Composer to generate any of the example applications from the RailsApps project.
     - [Rails Bootstrap](https://github.com/RailsApps/rails-bootstrap) Starter App for Rails and Bootstrap 
 - [Projects Ruby](#projects-ruby)
+
+
+## .NET
+*Boilerplates, templates and projects for C#.NET and ASP.NET*
+
+- [ASP.NET](https://github.com/aspnetboilerplate/aspnetboilerplate) ASP.NET Boilerplate is a starting point for new modern web applications using best practices and most popular tools.
+
 
 
 ##  Chrome App/Extension
