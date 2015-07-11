@@ -6,6 +6,12 @@ Curated list of boilerplates and templates to enhance productivity.
     - [Android Development](#android-development)
     - [iOS Development](#ios-development)
     - [Javascript](#javascript)
+        - [NodeJS](#node-js)
+        - [AngularJS](#angular-js)
+        - [ReactJS](#react-js)
+        - [Jquery](#jquery)
+        - [Polymer](#polymer)
+        - [Electron](#electron)
     - [Hybrid Mobile App Frameworks](#hybrid-mobile-app-frameworks)
     - [Python](#python)
     - [PHP](#php)
@@ -49,7 +55,7 @@ Android Guide.
 *Boilerplates and templates for Javascript*
 
 - [Yeoman](https://github.com/yeoman) The web's scaffolding tool for modern webapps. Includes many generators to get started.
-- [NodeJS](#nodejs)
+- [NodeJS](#node-js)
     - [Yeoman Node Generator](https://github.com/yeoman/generator-node) Yeomans node generator   
     - [Node module boilerplate](https://github.com/sindresorhus/node-module-boilerplate) Boilerplate to kickstart creating a node module
     - [Express Boilerplate](https://github.com/expressjs/generator) Boilerplate generator for Express.js Projects
