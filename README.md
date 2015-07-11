@@ -48,20 +48,31 @@ Android Guide.
 
 *Boilerplates and templates for Javascript*
 
-- [ng-boilerplate](https://github.com/ngbp/ngbp) An opinionated kickstarter for AngularJS projects. 
-- [Angular Laravel CouchDB](https://github.com/melvin0008/laravel-angular) Angular Laravel CouchDB Boilerplate
-- [fafafa](https://github.com/fordaaronj/fafafa) Angular / Flask / Foundation Boilerplate.
-- [Backbone Boilerplate](https://github.com/backbone-boilerplate/generator-bbb) Yeoman generator for Backbone.
-- [Backbone Boilerplates](https://github.com/addyosmani/backbone-boilerplates) Backbone Boilerplates by Addy Osmani.
-- [Generator Jquery Boilerplate](https://github.com/jquery-boilerplate/generator-jquery-boilerplate) Yeoman Generator for jQuery Boilerplate.
-- [Polymer Starter Kit](https://github.com/PolymerElements/polymer-starter-kit) A starting point for Polymer 1.0 apps.
-- [Polymer Seed Element](https://github.com/PolymerElements/seed-element) An element providing a starting point for your own reusable Polymer elements.
-- [Electron Boilerplate](https://github.com/sindresorhus/electron-boilerplate) Boilerplate for electron-node
-- [Express Boilerplate](https://github.com/expressjs/generator) Boilerplate generator for Express.js Projects
-- [React Boilerplate](https://github.com/petehunt/react-boilerplate) Boilerplate for creating a React npm package
-- [React Boilerplate](https://github.com/rackt/react-boilerplate) React boilerplate with React Router and webpack
-- [React JS Hot loader Boilerplates](https://github.com/gaearon/react-hot-loader/tree/master/docs#starter-kits) React hot loader starter kits
-
+-[Yeoman](https://github.com/yeoman) The web's scaffolding tool for modern webapps. Includes many generators to get started.
+-[NodeJS](#nodejs)
+    - [Yeoman Node Generator](https://github.com/yeoman/generator-node) Yeomans node generator
+    - [Node module boilerplate](https://github.com/sindresorhus/node-module-boilerplate) Boilerplate to kickstart creating a node module
+    - [Express Boilerplate](https://github.com/expressjs/generator) Boilerplate generator for Express.js Projects
+-[AngularJS](#angular-js)
+    - [ng-boilerplate](https://github.com/ngbp/ngbp) An opinionated kickstarter for AngularJS projects. 
+    - [Yeoman Angular Generator](https://github.com/yeoman/generator-angular)
+    - [Angular Laravel CouchDB](https://github.com/melvin0008/laravel-angular) Angular Laravel CouchDB Boilerplate
+    - [fafafa](https://github.com/fordaaronj/fafafa) Angular / Flask / Foundation Boilerplate.
+-[ReactJS](#react-js)
+    - [React Boilerplate](https://github.com/petehunt/react-boilerplate) Boilerplate for creating a React npm package
+    - [React Boilerplate](https://github.com/rackt/react-boilerplate) React boilerplate with React Router and webpack
+    - [React JS Hot loader Boilerplates](https://github.com/gaearon/react-hot-loader/tree/master/docs#starter-kits) React hot loader starter kits
+-[Backbone](#backbone)
+    - [Backbone Boilerplates](https://github.com/addyosmani/backbone-boilerplates) Backbone Boilerplates by Addy Osmani.
+    - [Yeoman Backbone Generator](https://github.com/yeoman/generator-backbone) Yeoman generator for Backbone.
+-[Jquery](#jquery)
+    - [Generator Jquery Boilerplate](https://github.com/jquery-boilerplate/generator-jquery-boilerplate) Yeoman Generator for jQuery Boilerplate.
+-[Polymer](#polymer)
+    - [Polymer Starter Kit](https://github.com/PolymerElements/polymer-starter-kit) A starting point for Polymer 1.0 apps.
+    - [Polymer Seed Element](https://github.com/PolymerElements/seed-element) An element providing a starting point for your own reusable Polymer elements.
+    - [Yeoman Polymer Generator](https://github.com/yeoman/generator-polymer) Yeoman's polymer Generator
+-[Electron](#electron)
+    - [Electron Boilerplate](https://github.com/sindresorhus/electron-boilerplate) Boilerplate for electron-node
 
 ## Hybrid Mobile App Frameworks 
 
