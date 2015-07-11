@@ -119,7 +119,7 @@ Android Guide.
 
 *Boilerplates and templates for C#.NET and ASP.NET*
 
-- [ASP.NET](https://github.com/aspnetboilerplate/aspnetboilerplate) ASP.NET Boilerplate is a starting point for new modern web applications using best practices and most popular tools.
+- [ASP.NET Boilerplate](https://github.com/aspnetboilerplate/aspnetboilerplate) ASP.NET Boilerplate is a starting point for new modern web applications using best practices and most popular tools.
 
 
 
@@ -127,13 +127,12 @@ Android Guide.
 
 *Boilerplates and templates for Chrome*
 
-- [Generaor ChromeApp](https://github.com/yeoman/generator-chromeapp) Yeoman generator for chrome app   
+- [Generator ChromeApp](https://github.com/yeoman/generator-chromeapp) Yeoman generator for chrome app   
 
 
 ##  Firefox App/Extension
 
 *Boilerplates and templates for Firefox*
-- [Boilerplate Firefox](#boilerplate-firefox)
 
 
 ## Websites 
