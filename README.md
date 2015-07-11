@@ -51,7 +51,7 @@ Android Guide.
 - [Yeoman](https://github.com/yeoman) The web's scaffolding tool for modern webapps. Includes many generators to get started.
 - [NodeJS](#node-js)
     - [Yeoman Node Generator](https://github.com/yeoman/generator-node) Yeomans node generator   
-    - [Node module boilerplate](https://github.com/sindresorhus/node-module-boilerplate) Boilerplate to kickstart creating a node module
+    - [Node Module boilerplate](https://github.com/sindresorhus/node-module-boilerplate) Boilerplate to kickstart creating a node module
     - [Express Boilerplate](https://github.com/expressjs/generator) Boilerplate generator for Express.js Projects
 - [AngularJS](#angular-js)
     - [ng-boilerplate](https://github.com/ngbp/ngbp) An opinionated kickstarter for AngularJS projects. 
@@ -61,6 +61,10 @@ Android Guide.
 - [ReactJS](#react-js)
     - [React Boilerplate](https://github.com/petehunt/react-boilerplate) Boilerplate for creating a React npm package
     - [React Boilerplate](https://github.com/rackt/react-boilerplate) React boilerplate with React Router and webpack
+    - [React Isomorphic Starterkit](https://github.com/RickWong/react-isomorphic-starterkit) Isomorphic starterkit with server-side React rendering having many features
+    - [Coffee React Quickstart ](https://github.com/KyleAMathews/coffee-react-quickstart) Quickstart for building React single page apps using Coffeescript, Gulp, Webpack, and React-Router
+    - [Flask React Boilerplate](https://github.com/alexkuz/flask-react-boilerplate) Flask and react Boilerplate
+    - [Boilerplate Webpack React](https://github.com/tcoopman/boilerplate-webpack-react) Boilerplate project for Reactjs with webpack, gulp and stylus
     - [React JS Hot loader Boilerplates](https://github.com/gaearon/react-hot-loader/tree/master/docs#starter-kits) React hot loader starter kits
 - [Backbone](#backbone)
     - [Backbone Boilerplates](https://github.com/addyosmani/backbone-boilerplates) Backbone Boilerplates by Addy Osmani.
