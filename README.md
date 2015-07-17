@@ -10,6 +10,7 @@ Curated list of boilerplates and templates to enhance productivity.
     - [Python](#python)
     - [PHP](#php)
     - [Ruby](#ruby)
+    - [Java](#java)
     - [.NET](#.net)
     - [Chrome App/Extension](#chrome-app/Extension)
     - [Firefox App/Extension](#firefox-app/Extension)
@@ -115,6 +116,12 @@ Android Guide.
 - [AngularJS Sinatra Bootstrap](https://github.com/dannolan/angularjs-sinatra-bootstrap-template) Angular Sinatra Bootstrap template.
 - [Rails Composer](http://railsapps.github.io/rails-composer/) Use Rails Composer to generate any of the example applications from the RailsApps project.
 - [Rails Bootstrap](https://github.com/RailsApps/rails-bootstrap) Starter App for Rails and Bootstrap 
+
+##Java
+
+*Boilerplates for Java Apps
+
+- [Java Project Template](https://github.com/gauravvermaicloud/JavaProjectTemplate) An enterprise grade template for writing Java Web apps with mobile support. [This is a work in progress]
 
 ## .NET
 
