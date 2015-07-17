@@ -119,7 +119,7 @@ Android Guide.
 
 ##Java
 
-*Boilerplates for Java Apps
+*Boilerplates for Java Apps*
 
 - [Java Project Template](https://github.com/gauravvermaicloud/JavaProjectTemplate) An enterprise grade template for writing Java Web apps with mobile support. [This is a work in progress]
 
