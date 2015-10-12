@@ -97,7 +97,7 @@ Android Guide.
 - [fafafa](https://github.com/fordaaronj/fafafa) Flask / Angular / Foundation Boilerplate
 - [GoogleAppEngine Webapp2 Boilerplate](https://github.com/coto/gae-boilerplate) A Complete boilerplate for Python Webapp2 on Google App Engine
 - [Flask Appengine Template](https://github.com/kamalgill/flask-appengine-template) Flask App engine Template
-
+- [Django Starter Template](https://github.com/fasouto/django-starter-template) An easy to use project template for Django that follows best practices.
     
 
 ## PHP 
