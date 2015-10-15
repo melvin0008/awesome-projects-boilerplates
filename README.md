@@ -61,6 +61,7 @@ Android Guide.
 - [ReactJS](#react-js)
     - [React Boilerplate](https://github.com/petehunt/react-boilerplate) Boilerplate for creating a React npm package
     - [React Boilerplate](https://github.com/rackt/react-boilerplate) React boilerplate with React Router and webpack
+    - [React Transorm Boilerplate](https://github.com/gaearon/react-transform-boilerplate) A new Webpack boilerplate with hot reloading React components, and error handling on module and component level.
     - [Library Boilerplate](https://github.com/gaearon/library-boilerplate) An opinionated boilerplate for React libraries including ESLint, Mocha, Babel, Webpack and an example powered by Webpack Dev Server and React Hot Loader
     - [React Isomorphic Starterkit](https://github.com/RickWong/react-isomorphic-starterkit) Isomorphic starterkit with server-side React rendering having many features
     - [Coffee React Quickstart ](https://github.com/KyleAMathews/coffee-react-quickstart) Quickstart for building React single page apps using Coffeescript, Gulp, Webpack, and React-Router
