@@ -82,7 +82,7 @@ Android Guide.
 
 ## Hybrid Mobile App Frameworks 
 
-*Boilerplates and templates for Hybrid Mobile App Frameworks*
+- [Angular Gulp Ionic Boilerplate](https://github.com/MaximAbramchuck/angular-gulp-ionic-boilerplate) Ionic framework boilerplate for writing apps using Gulp and EcmaScript6.
 
 
 ## Python 
