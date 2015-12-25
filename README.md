@@ -5,7 +5,7 @@ Curated list of boilerplates and templates to enhance productivity.
 - [Awesome Projects Boilerplates](#awesome-projects-boilerplates)
     - [Android Development](#android-development)
     - [iOS Development](#ios-development)
-    - [Javascript](#javascript)
+    - [JavaScript](#javascript)
     - [Hybrid Mobile App Frameworks](#hybrid-mobile-app-frameworks)
     - [Python](#python)
     - [PHP](#php)
@@ -44,9 +44,9 @@ Android Guide.
 - [Amaro](https://github.com/crushlovely/Amaro) Featureful iOS Boilerplate.
 - [Boilerplate-iOS](https://github.com/openaphid/Boilerplate-iOS) Boilerplate by openaphid.
 
-## Javascript 
+## JavaScript 
 
-*Boilerplates and templates for Javascript*
+*Boilerplates and templates for JavaScript*
 
 - [Yeoman](https://github.com/yeoman) The web's scaffolding tool for modern webapps. Includes many generators to get started.
 - [NodeJS](#node-js)
@@ -99,6 +99,7 @@ Android Guide.
 - [GoogleAppEngine Webapp2 Boilerplate](https://github.com/coto/gae-boilerplate) A Complete boilerplate for Python Webapp2 on Google App Engine
 - [Flask Appengine Template](https://github.com/kamalgill/flask-appengine-template) Flask App engine Template
 - [Django Starter Template](https://github.com/fasouto/django-starter-template) An easy to use project template for Django that follows best practices.
+- [gae-init](http://gae-init.appspot.com) Google App Engine based on Flask, RESTful, Bootstrap and tons of other cool features.
     
 
 ## PHP 
