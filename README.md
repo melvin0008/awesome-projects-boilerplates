@@ -15,6 +15,7 @@ Curated list of boilerplates and templates to enhance productivity.
     - [Firefox App/Extension](#firefox-appextension)
     - [Websites](#websites) 
     - [IDE Templates](#ide-templates)
+    - [GitHub](#github)
 - [Contributing](#contributing)
 
 
@@ -155,6 +156,11 @@ Android Guide.
 - [Yasnippet](https://github.com/capitaomorte/yasnippet) A template system for Emacs.
 - [Vim Template](https://github.com/aperezdc/vim-template) Simple Vim Templates plugin.
 
+##  GitHub
+
+*Boilerplates and template files*
+
+- [GitHub Project Boilerplate](https://github.com/cez-aug/github-project-boilerplate) Collection of template files for writing maintanable GitHub projects.
 
 # [Contributing](https://github.com/melvin0008/awesome-projects-boilerplates/blob/master/CONTRIBUTING.MD)
 
