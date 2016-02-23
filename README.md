@@ -162,6 +162,7 @@ Android Guide.
 *Boilerplates and template files*
 
 - [GitHub Project Boilerplate](https://github.com/cez-aug/github-project-boilerplate) Collection of template files for writing maintanable GitHub projects.
+- [Pollinate](https://github.com/everysquare/pollinate) Template your base files and generate them from GitHub.
 
 # [Contributing](https://github.com/melvin0008/awesome-projects-boilerplates/blob/master/CONTRIBUTING.MD)
 
