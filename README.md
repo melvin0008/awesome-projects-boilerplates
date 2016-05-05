@@ -161,7 +161,7 @@ Android Guide.
 
 *Boilerplates and template files*
 
-- [GitHub Project Boilerplate](https://github.com/cez-aug/github-project-boilerplate) Collection of template files for writing maintanable GitHub projects.
+- [GitHub Template Guidelines](https://github.com/cezaraugusto/github-template-guidelines) Collection of guidelines and boilerplate files for writing maintanable GitHub projects.
 
 # [Contributing](https://github.com/melvin0008/awesome-projects-boilerplates/blob/master/CONTRIBUTING.MD)
 
