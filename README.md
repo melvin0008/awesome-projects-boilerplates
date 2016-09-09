@@ -102,9 +102,10 @@ Android Guide.
 - [Flask Appengine Template](https://github.com/kamalgill/flask-appengine-template) Flask App engine Template
 - [Django Starter Template](https://github.com/fasouto/django-starter-template) An easy to use project template for Django that follows best practices.
 - [gae-init](http://gae-init.appspot.com) Google App Engine based on Flask, RESTful, Bootstrap and tons of other cool features.
-    
+- [CherryPy + Mako + Formish + OOOP boilerplate](https://github.com/kdeldycke/cherrypy_mako_formish_ooop_boilerplate) Targets publishing of OpenERP content to the web.
 
-## PHP 
+
+## PHP
 
 *Boilerplates and templates for PHP*
 
