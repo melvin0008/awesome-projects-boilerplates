@@ -13,14 +13,14 @@ Curated list of boilerplates and templates to enhance productivity.
     - [.NET](#net)
     - [Chrome App/Extension](#chrome-appextension)
     - [Firefox App/Extension](#firefox-appextension)
-    - [Websites](#websites) 
+    - [Websites](#websites)
     - [IDE Templates](#ide-templates)
     - [GitHub](#github)
 - [Contributing](#contributing)
 
 
 
-## Android Development 
+## Android Development
 
 *Boilerplates and templates for Android*
 
@@ -45,7 +45,7 @@ Android Guide.
 - [Amaro](https://github.com/crushlovely/Amaro) Featureful iOS Boilerplate.
 - [Boilerplate-iOS](https://github.com/openaphid/Boilerplate-iOS) Boilerplate by openaphid.
 
-## JavaScript 
+## JavaScript
 
 *Boilerplates and templates for JavaScript*
 
@@ -55,7 +55,7 @@ Android Guide.
     - [Node Module boilerplate](https://github.com/sindresorhus/node-module-boilerplate) Boilerplate to kickstart creating a node module
     - [Express Boilerplate](https://github.com/expressjs/generator) Boilerplate generator for Express.js Projects
 - [AngularJS](#angular-js)
-    - [ng-boilerplate](https://github.com/ngbp/ngbp) An opinionated kickstarter for AngularJS projects. 
+    - [ng-boilerplate](https://github.com/ngbp/ngbp) An opinionated kickstarter for AngularJS projects.
     - [Yeoman Angular Generator](https://github.com/yeoman/generator-angular)
     - [Angular Laravel CouchDB](https://github.com/melvin0008/laravel-angular) Angular Laravel CouchDB Boilerplate
     - [fafafa](https://github.com/fordaaronj/fafafa) Angular / Flask / Foundation Boilerplate.
@@ -82,22 +82,21 @@ Android Guide.
 - [Electron](#electron)
     - [Electron Boilerplate](https://github.com/sindresorhus/electron-boilerplate) Boilerplate for electron-node
 
-## Hybrid Mobile App Frameworks 
+## Hybrid Mobile App Frameworks
 
 - [Angular Gulp Ionic Boilerplate](https://github.com/MaximAbramchuck/angular-gulp-ionic-boilerplate) Ionic framework boilerplate for writing apps using Gulp and EcmaScript6.
 
 
-## Python 
+## Python
 
 *Boilerplates and templates for Python*
 - [Django Hackathon Starter](https://github.com/DrkSephy/django-hackathon-starter) A boilerplate for Django web applications, providing various social logins and several popular API examples.
-- [CookieCutter](https://github.com/audreyr/cookiecutter#python) List of various python templates by Audrey. 
+- [CookieCutter](https://github.com/audreyr/cookiecutter#python) List of various python templates by Audrey.
 - [bootstrapy](https://github.com/kirang89/bootstrapy) A bootstrap Python application, so that you can focus on writing code.
 - [Fbone](https://github.com/imwilsonxu/fbone) Fbone (Flask bone) is a Flask (Python microframework) template/bootstrap/boilerplate application.
 - [Flask-Bootstrap](https://github.com/esbullington/flask-bootstrap) A Flask app template with integrated SQLAlchemy, authentication, and Bootstrap frontend.
 - [Flask Boilerplate](https://github.com/melvin0008/FlaskBoilerplate) A very simple flask boilerplate with folder structures.
 - [Flask Foundation](https://github.com/JackStouffer/Flask-Foundation) App built with best practices.
-- [fafafa](https://github.com/fordaaronj/fafafa) Flask / Angular / Foundation Boilerplate
 - [GoogleAppEngine Webapp2 Boilerplate](https://github.com/coto/gae-boilerplate) A Complete boilerplate for Python Webapp2 on Google App Engine
 - [Flask Appengine Template](https://github.com/kamalgill/flask-appengine-template) Flask App engine Template
 - [Django Starter Template](https://github.com/fasouto/django-starter-template) An easy to use project template for Django that follows best practices.
@@ -111,15 +110,15 @@ Android Guide.
 
 - [Laravel Angular CouchDB](https://github.com/melvin0008/laravel-angular) Laravel Angular CouchDB Boilerplate
 - [Laravel Snippets](www.laravelsnippets.com) Many laravel snippets.
-    
-## Ruby 
+
+## Ruby
 
 *Boilerplates and templates for Ruby*
 
 - [AngularJS Rails Templates](https://github.com/pitr/angular-rails-templates) Rails and Angular Tempate.  
 - [AngularJS Sinatra Bootstrap](https://github.com/dannolan/angularjs-sinatra-bootstrap-template) Angular Sinatra Bootstrap template.
 - [Rails Composer](http://railsapps.github.io/rails-composer/) Use Rails Composer to generate any of the example applications from the RailsApps project.
-- [Rails Bootstrap](https://github.com/RailsApps/rails-bootstrap) Starter App for Rails and Bootstrap 
+- [Rails Bootstrap](https://github.com/RailsApps/rails-bootstrap) Starter App for Rails and Bootstrap
 
 ## .NET
 
@@ -141,7 +140,7 @@ Android Guide.
 *Boilerplates and templates for Firefox*
 
 
-## Websites 
+## Websites
 
 *Boilerplates and templates for Websites*
 - [HTML5 Boilerplate](https://html5boilerplate.com/) Web's most popular front-end template
