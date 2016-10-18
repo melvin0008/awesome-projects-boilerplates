@@ -150,6 +150,7 @@ Android Guide.
 - [Open Designs](http://www.opendesigns.org/) Open Source WebDesign Templates
 - [Open Web Design](http://www.openwebdesign.org/) Community of designers and site owners sharing free web design templates
 - [OSWD](http://www.oswd.org/) Platform for sharing standards-compliant free web design templates
+- [Jekyll Starter Kit](https://github.com/nirgn975/generator-jekyll-starter-kit) Jekyll Progressive Web App generator boilerplate.
 
 ##  IDE
 
