@@ -26,7 +26,6 @@ Curated list of boilerplates and templates to enhance productivity.
 
 - [Android Bootstrap](https://github.com/AndroidBootstrap/android-bootstrap) A template/bootstrap/boilerplate application that includes tons of great open source tools and frameworks.
 - [Android Material Drawer Template](https://github.com/kanytu/android-material-drawer-template) An Android template with navigation drawer for material design.
-- [Web Apps](https://github.com/h5bp/mobile-boilerplate) Boilerplate for mobile web apps.
 - [material-design-icons-adt-template](https://github.com/intrications/material-design-icons-adt-template) Android Studio / Eclipse ADT template for material-design-icons resources.
 - [AndroidKickststarter](https://github.com/e-biz/androidkickstartr) Framework kickstarts development which help you focus on coding.
 - [Android Annotations](https://github.com/excilys/androidannotations) Fast Android Development. Easy maintainance.
@@ -34,14 +33,15 @@ Curated list of boilerplates and templates to enhance productivity.
 - [Android Basic Samples](https://github.com/playgameservices/android-basic-samples) Mostly game oriented samples.
 - [Android Webview Sample App](https://github.com/tscolari/android-webview-sample-app) Webview Sample App
 - [Android Quickstart](https://github.com/googledrive/android-quickstart) Quickstart application showing the Google Drive API for Android.
-- [Beginning Android Resources](https://github.com/codepath/android_guides/wiki/Beginning-Android-Resources)
-Android Guide.
+- [Beginning Android Resources](https://github.com/codepath/android_guides/wiki/Beginning-Android-Resources) Android Guide.
+- [Universal Music Player](https://github.com/googlesamples/android-UniversalMusicPlayer) Google sample application that shows how to implement an audio media app that works across multiple form factors and provides a consistent user experience on Android phones, tablets, Auto, Wear and Cast devices.
+- [Android Architecture Blueprints](https://github.com/googlesamples/android-architecture) Demonstrates a basic Model-View-Presenter architecture and showcases various TODO app implementations.
 
 ## IOS Development.
 
 *Boilerplates and templates for IOS*
 
-- [iOS Biolerplate](https://github.com/gimenete/iOS-boilerplate) Boilerplate by Gimeno.
+- [iOS Boilerplate](https://github.com/gimenete/iOS-boilerplate) Boilerplate by Gimeno.
 - [Amaro](https://github.com/crushlovely/Amaro) Featureful iOS Boilerplate.
 - [Boilerplate-iOS](https://github.com/openaphid/Boilerplate-iOS) Boilerplate by openaphid.
 
@@ -50,10 +50,14 @@ Android Guide.
 *Boilerplates and templates for JavaScript*
 
 - [Yeoman](https://github.com/yeoman) The web's scaffolding tool for modern webapps. Includes many generators to get started.
+- [Mega Boilerplate](https://github.com/sahat/megaboilerplate) Fullstack boilerplate generator with support for Node.js, a static site, or an Electron app. 
 - [NodeJS](#node-js)
     - [Yeoman Node Generator](https://github.com/yeoman/generator-node) Yeomans node generator   
     - [Node Module boilerplate](https://github.com/sindresorhus/node-module-boilerplate) Boilerplate to kickstart creating a node module
     - [Express Boilerplate](https://github.com/expressjs/generator) Boilerplate generator for Express.js Projects
+    - [Hackathon Starter](https://github.com/sahat/hackathon-starter) A boilerplate for Node.js web applications.
+    - [Node/Backbone Web App Boilerplate](https://github.com/skaapgif/webapp-boilerplate) Boilerplate for web applications with a Node, Express, MongoDB backend and Backbone Marionette, Jade, Require.js frontend.
+    - [Nodebootstrap](http://nodebootstrap.io/) Unobtrusive skeleton project for Node/Express.js with pre-configured best-practices.
 - [AngularJS](#angular-js)
     - [ng-boilerplate](https://github.com/ngbp/ngbp) An opinionated kickstarter for AngularJS projects.
     - [Yeoman Angular Generator](https://github.com/yeoman/generator-angular)
@@ -74,6 +78,7 @@ Android Guide.
 - [Backbone](#backbone)
     - [Backbone Boilerplates](https://github.com/addyosmani/backbone-boilerplates) Backbone Boilerplates by Addy Osmani.
     - [Yeoman Backbone Generator](https://github.com/yeoman/generator-backbone) Yeoman generator for Backbone.
+    - [benm](https://github.com/shorttompkins/benm) Boilerplate web app using Backbone.js, ExpressJS, node.js, MongoDB.
 - [Jquery](#jquery)
     - [Generator Jquery Boilerplate](https://github.com/jquery-boilerplate/generator-jquery-boilerplate) Yeoman Generator for jQuery Boilerplate.
 - [Polymer](#polymer)
