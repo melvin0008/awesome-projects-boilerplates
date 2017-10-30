@@ -158,6 +158,7 @@ Curated list of boilerplates and templates to enhance productivity.
 - [Open Web Design](http://www.openwebdesign.org/) Community of designers and site owners sharing free web design templates
 - [OSWD](http://www.oswd.org/) Platform for sharing standards-compliant free web design templates
 - [Jekyll Starter Kit](https://github.com/nirgn975/generator-jekyll-starter-kit) Jekyll Progressive Web App generator boilerplate.
+- [HTML5 UP!](https://html5up.net/) Responsive HTML5 and CSS3 Site Templates.
 
 ##  IDE
 
