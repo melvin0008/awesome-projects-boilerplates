@@ -63,7 +63,6 @@ Curated list of boilerplates and templates to enhance productivity.
     - [ng-boilerplate](https://github.com/ngbp/ngbp) An opinionated kickstarter for AngularJS projects.
     - [Yeoman Angular Generator](https://github.com/yeoman/generator-angular)
     - [Angular Laravel CouchDB](https://github.com/melvin0008/laravel-angular) Angular Laravel CouchDB Boilerplate
-    - [fafafa](https://github.com/fordaaronj/fafafa) Angular / Flask / Foundation Boilerplate.
 - [ReactJS](#react-js)
     - [React Boilerplate](https://github.com/petehunt/react-boilerplate) Boilerplate for creating a React npm package
     - [React Boilerplate](https://github.com/rackt/react-boilerplate) React boilerplate with React Router and webpack
@@ -76,6 +75,8 @@ Curated list of boilerplates and templates to enhance productivity.
     - [React JS Hot loader Boilerplates](https://github.com/gaearon/react-hot-loader/tree/master/docs#starter-kits) React hot loader starter kits
     - [React Redux Universal Hot Example](https://github.com/erikras/react-redux-universal-hot-example) A starter boilerplate for a universal webapp using express, react, redux, webpack, and react-transform
     - [post3ree-boilerplate](https://github.com/hex22a/post3ree-boilerplate) Boilerplate for a universal application using 3REE stack (React, Redux, RethinkDB, Express) + PostCSS
+- [HyperApp](#hyperapp)
+    - [hyperapp-boilerplate](https://github.com/tzellman/hyperapp-boilerplate) Boilerplate showing how to create a production-ready Hyperapp application.
 - [Backbone](#backbone)
     - [Backbone Boilerplates](https://github.com/addyosmani/backbone-boilerplates) Backbone Boilerplates by Addy Osmani.
     - [Yeoman Backbone Generator](https://github.com/yeoman/generator-backbone) Yeoman generator for Backbone.
