@@ -120,7 +120,6 @@ Curated list of boilerplates and templates to enhance productivity.
 *Boilerplates and templates for PHP*
 
 - [Laravel Angular CouchDB](https://github.com/melvin0008/laravel-angular) Laravel Angular CouchDB Boilerplate
-- [Laravel Snippets](http://www.laravelsnippets.com) Many laravel snippets.
 
 ## Ruby
 
