@@ -11,8 +11,7 @@ Curated list of boilerplates and templates to enhance productivity.
     - [PHP](#php)
     - [Ruby](#ruby)
     - [.NET](#net)
-    - [Chrome App/Extension](#chrome-appextension)
-    - [Firefox App/Extension](#firefox-appextension)
+    - [Browser Webextensions](#browser-webextensions)
     - [Websites](#websites)
     - [IDE Templates](#ide-templates)
     - [GitHub](#github)
@@ -138,16 +137,12 @@ Curated list of boilerplates and templates to enhance productivity.
 
 
 
-##  Chrome App/Extension
+##  Browser Webextensions
 
-*Boilerplates and templates for Chrome*
+*Boilerplates and templates to develop webextensions for internet browsers such as Chrome, Firefox and Safari*
 
-- [Generator ChromeApp](https://github.com/yeoman/generator-chromeapp) Yeoman generator for chrome app   
+- [Boilerplate with Webpack](https://github.com/fstanis/webextensions-webpack-boilerplate) Using Webpack JS module manager
 
-
-##  Firefox App/Extension
-
-*Boilerplates and templates for Firefox*
 
 
 ## Websites
