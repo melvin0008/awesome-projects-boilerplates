@@ -11,6 +11,7 @@ Curated list of boilerplates and templates to enhance productivity.
     - [PHP](#php)
     - [Ruby](#ruby)
     - [.NET](#net)
+    - [Go](#go)
     - [Browser Webextensions](#browser-webextensions)
     - [Websites](#websites)
     - [IDE Templates](#ide-templates)
@@ -135,6 +136,12 @@ Curated list of boilerplates and templates to enhance productivity.
 
 - [ASP.NET Boilerplate](https://github.com/aspnetboilerplate/aspnetboilerplate) ASP.NET Boilerplate is a starting point for new modern web applications using best practices and most popular tools.
 
+
+## Go
+
+*Boilerplates and templates for Go*
+
+- [Go React JSX Boilerplate](https://github.com/sharath/go-react-boilerplate) Starter code for a React + Go web application
 
 
 ##  Browser Webextensions
