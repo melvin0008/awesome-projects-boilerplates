@@ -92,6 +92,7 @@ Curated list of boilerplates and templates to enhance productivity.
 - [Electron](#electron)
     - [Electron Boilerplate](https://github.com/sindresorhus/electron-boilerplate) Boilerplate for electron-node
     - [WhiteStormJS - React/Redux - three.js - TypeScript boilerplate](https://github.com/WhitestormJS/whitestorm-typescript-boilerplate) A starter kit for crafting 3D applications using modern technologies
+    - [Electron React Boilerplate](https://github.com/burhanuday/electron-react-boilerplate) Electron and Create React App boilerplate with multi-platform export options.
 
 ## Hybrid Mobile App Frameworks
 
