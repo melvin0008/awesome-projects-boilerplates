@@ -77,6 +77,7 @@ Curated list of boilerplates and templates to enhance productivity.
     - [React Redux minimal](https://github.com/flexdinesh/react-redux-boilerplate) A minimal React-Redux boilerplate with all the best practices
     - [React Redux Universal Hot Example](https://github.com/erikras/react-redux-universal-hot-example) A starter boilerplate for a universal webapp using express, react, redux, webpack, and react-transform
     - [post3ree-boilerplate](https://github.com/hex22a/post3ree-boilerplate) Boilerplate for a universal application using 3REE stack (React, Redux, RethinkDB, Express) + PostCSS
+    - [graphql-react-native-boilerplate](https://github.com/morenoh149/fullstack-apollo-react-native-boilerplate) Boilerplate for react native app using graphql via apollo library. Designed to work with graphql backend boilerplate.
 - [HyperApp](#hyperapp)
     - [hyperapp-boilerplate](https://github.com/tzellman/hyperapp-boilerplate) Boilerplate showing how to create a production-ready Hyperapp application.
 - [Backbone](#backbone)
