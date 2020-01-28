@@ -90,6 +90,7 @@ Curated list of boilerplates and templates to enhance productivity.
     - [Polymer Seed Element](https://github.com/PolymerElements/seed-element) An element providing a starting point for your own reusable Polymer elements.
     - [Yeoman Polymer Generator](https://github.com/yeoman/generator-polymer) Yeoman's polymer Generator
 - [Electron](#electron)
+    - [Electron React Boilerplate](https://github.com/electron-react-boilerplate/electron-react-boilerplate) A Foundation for Scalable Electron Apps
     - [Electron Boilerplate](https://github.com/sindresorhus/electron-boilerplate) Boilerplate for electron-node
     - [WhiteStormJS - React/Redux - three.js - TypeScript boilerplate](https://github.com/WhitestormJS/whitestorm-typescript-boilerplate) A starter kit for crafting 3D applications using modern technologies
 
