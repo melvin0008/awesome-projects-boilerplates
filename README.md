@@ -165,6 +165,7 @@ Curated list of boilerplates and templates to enhance productivity.
 - [Jekyll Starter Kit](https://github.com/nirgn975/generator-jekyll-starter-kit) Jekyll Progressive Web App generator boilerplate.
 - [HTML5 UP!](https://html5up.net/) Responsive HTML5 and CSS3 Site Templates.
 - [Gulp front](https://zoxon.github.io/gulp-front/) Frontend boilerplate and framework based on gulp, pug, stylus and babel
+- [HTML Website Template](https://github.com/fulldecent/html-website-template) Starting point for collaboratively-edited HTML websites
 
 ##  IDE
 
