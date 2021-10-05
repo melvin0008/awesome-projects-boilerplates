@@ -64,6 +64,7 @@ Curated list of boilerplates and templates to enhance productivity.
     - [Yeoman Angular Generator](https://github.com/yeoman/generator-angular)
     - [Angular Laravel CouchDB](https://github.com/melvin0008/laravel-angular) Angular Laravel CouchDB Boilerplate
 - [ReactJS](#react-js)
+    - [React Typescript npm boilerplate](https://github.com/Sivakumar00/react-typescript-npm-boilerplate) Powerful react typescript npm component boilerplate built with rollup.js, storybook, jest unit test, tree-shaking and airbnb eslint rules
     - [React Boilerplate](https://github.com/petehunt/react-boilerplate) Boilerplate for creating a React npm package
     - [React Boilerplate](https://github.com/rackt/react-boilerplate) React boilerplate with React Router and webpack
     - [React Transform Boilerplate](https://github.com/gaearon/react-transform-boilerplate) A new Webpack boilerplate with hot reloading React components, and error handling on module and component level.
