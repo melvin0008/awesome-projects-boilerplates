@@ -114,6 +114,7 @@ Curated list of boilerplates and templates to enhance productivity.
 - [Django Starter Template](https://github.com/fasouto/django-starter-template) An easy to use project template for Django that follows best practices.
 - [gae-init](http://gae-init.appspot.com) Google App Engine based on Flask, RESTful, Bootstrap and tons of other cool features.
 - [CherryPy + Mako + Formish + OOOP boilerplate](https://github.com/kdeldycke/cherrypy_mako_formish_ooop_boilerplate) Targets publishing of OpenERP content to the web.
+- [Flask Authentication Boilerplate](https://github.com/ahmetelgun/flask-boilerplate) An REST API authentication boilerplate made with Flask and SQLAlchemy.
 
 
 ## PHP
