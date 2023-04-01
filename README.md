@@ -44,6 +44,7 @@ Curated list of boilerplates and templates to enhance productivity.
 - [iOS Boilerplate](https://github.com/gimenete/iOS-boilerplate) Boilerplate by Gimeno.
 - [Amaro](https://github.com/crushlovely/Amaro) Featureful iOS Boilerplate.
 - [Boilerplate-iOS](https://github.com/openaphid/Boilerplate-iOS) Boilerplate by openaphid.
+- [Swift 5 Module Template](https://github.com/fulldecent/swift5-module-template) Boilerplate for reusable Swift 5 modules.
 
 ## JavaScript
 
