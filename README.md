@@ -7,6 +7,7 @@ Curated list of boilerplates and templates to enhance productivity.
     - [iOS Development](#ios-development)
     - [JavaScript](#javascript)
     - [Hybrid Mobile App Frameworks](#hybrid-mobile-app-frameworks)
+    - [Microservices](#microservices)
     - [Python](#python)
     - [PHP](#php)
     - [Ruby](#ruby)
@@ -102,6 +103,11 @@ Curated list of boilerplates and templates to enhance productivity.
 ## Hybrid Mobile App Frameworks
 
 - [Angular Gulp Ionic Boilerplate](https://github.com/MaximAbramchuck/angular-gulp-ionic-boilerplate) Ionic framework boilerplate for writing apps using Gulp and EcmaScript6.
+
+
+## Microservices
+
+- [Webstack-micro](https://github.com/ferbs/webstack-micro) Demo/starter for full-stack web app using microservices architecture, with API Gateway, centralized authentication, background workers, and WebSockets.
 
 
 ## Python
