@@ -113,6 +113,7 @@ Curated list of boilerplates and templates to enhance productivity.
 ## Python
 
 *Boilerplates and templates for Python*
+- [BeautyNet](https://github.com/cms-flash/beauty-net) A research project template for PyTorch.
 - [Django Hackathon Starter](https://github.com/DrkSephy/django-hackathon-starter) A boilerplate for Django web applications, providing various social logins and several popular API examples.
 - [CookieCutter](https://github.com/audreyr/cookiecutter#python) List of various python templates by Audrey.
 - [bootstrapy](https://github.com/kirang89/bootstrapy) A bootstrap Python application, so that you can focus on writing code.
