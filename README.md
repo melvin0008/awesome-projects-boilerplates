@@ -149,6 +149,9 @@ Curated list of boilerplates and templates to enhance productivity.
 *Boilerplates and templates for C#.NET and ASP.NET*
 
 - [ASP.NET Boilerplate](https://github.com/aspnetboilerplate/aspnetboilerplate) ASP.NET Boilerplate is a starting point for new modern web applications using best practices and most popular tools.
+- [EISK](https://github.com/eisk) - .NET CLI and VS Templates with simple use cases to build scalable applications on top of .net core with architectural best practices (DDD, onion architecture etc).
+  - [Web Api](https://github.com/eisk/eisk.webapi) - with asp.net core utility classes, samples and .net cli templates, EISK Web API lets you creating new data driven web api straight away without wide technical experience or learning curve.
+
 
 
 ## Go
