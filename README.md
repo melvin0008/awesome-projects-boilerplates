@@ -44,6 +44,7 @@ Curated list of boilerplates and templates to enhance productivity.
 - [iOS Boilerplate](https://github.com/gimenete/iOS-boilerplate) Boilerplate by Gimeno.
 - [Amaro](https://github.com/crushlovely/Amaro) Featureful iOS Boilerplate.
 - [Boilerplate-iOS](https://github.com/openaphid/Boilerplate-iOS) Boilerplate by openaphid.
+- [Swift 5 Module Template](https://github.com/fulldecent/swift5-module-template) Boilerplate for reusable Swift 5 modules.
 
 ## JavaScript
 
@@ -58,13 +59,16 @@ Curated list of boilerplates and templates to enhance productivity.
     - [Hackathon Starter](https://github.com/sahat/hackathon-starter) A boilerplate for Node.js web applications.
     - [Node/Backbone Web App Boilerplate](https://github.com/skaapgif/webapp-boilerplate) Boilerplate for web applications with a Node, Express, MongoDB backend and Backbone Marionette, Jade, Require.js frontend.
     - [Nodebootstrap](http://nodebootstrap.io/) Unobtrusive skeleton project for Node/Express.js with pre-configured best-practices.
-    - [Vue-Express-Mongo Boilerplate](https://github.com/icebob/vue-express-mongo-boilerplate) - Full stack JS web app boilerplate with Express, Mongo and VueJS.
+    - [Vue-Express-Mongo Boilerplate](https://github.com/icebob/vue-express-mongo-boilerplate) - Full stack JS web app boilerplate with Express, Mongo and VueJS)
     - [Node-Express-Mongoose Boilerplate](https://github.com/hagopj13/node-express-mongoose-boilerplate) - A boilerplate for building production-ready RESTful APIs using Node.js, Express, and Mongoose.
+    - [Handlebars-Express Boilerplate](https://github.com/MohamedMoustafaNUIG/NodeExpressHbsScaffold) - JS web app boilerplate with Express and the handlebars view engine setup.
+
 - [AngularJS](#angular-js)
     - [ng-boilerplate](https://github.com/ngbp/ngbp) An opinionated kickstarter for AngularJS projects.
     - [Yeoman Angular Generator](https://github.com/yeoman/generator-angular)
     - [Angular Laravel CouchDB](https://github.com/melvin0008/laravel-angular) Angular Laravel CouchDB Boilerplate
 - [ReactJS](#react-js)
+    - [React Typescript npm boilerplate](https://github.com/Sivakumar00/react-typescript-npm-boilerplate) Powerful react typescript npm component boilerplate built with rollup.js, storybook, jest unit test, tree-shaking and airbnb eslint rules
     - [React Boilerplate](https://github.com/petehunt/react-boilerplate) Boilerplate for creating a React npm package
     - [React Boilerplate](https://github.com/rackt/react-boilerplate) React boilerplate with React Router and webpack
     - [React Transform Boilerplate](https://github.com/gaearon/react-transform-boilerplate) A new Webpack boilerplate with hot reloading React components, and error handling on module and component level.
@@ -166,6 +170,8 @@ Curated list of boilerplates and templates to enhance productivity.
 - [Jekyll Starter Kit](https://github.com/nirgn975/generator-jekyll-starter-kit) Jekyll Progressive Web App generator boilerplate.
 - [HTML5 UP!](https://html5up.net/) Responsive HTML5 and CSS3 Site Templates.
 - [Gulp front](https://zoxon.github.io/gulp-front/) Frontend boilerplate and framework based on gulp, pug, stylus and babel
+- [HTML Website Template](https://github.com/fulldecent/html-website-template) Starting point for collaboratively-edited HTML websites
+- [Nextjs Blog Starter](https://creativedesignsguru.com/demo/Nextjs-Blog-Boilerplate/) Starter code for your blog based on Next.js framework
 
 ##  IDE
 
