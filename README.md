@@ -6,6 +6,7 @@ Curated list of boilerplates and templates to enhance productivity.
     - [Android Development](#android-development)
     - [iOS Development](#ios-development)
     - [JavaScript](#javascript)
+    - [TypeScript](#typescript)
     - [Hybrid Mobile App Frameworks](#hybrid-mobile-app-frameworks)
     - [Microservices](#microservices)
     - [Python](#python)
@@ -99,6 +100,13 @@ Curated list of boilerplates and templates to enhance productivity.
     - [Electron React Boilerplate](https://github.com/electron-react-boilerplate/electron-react-boilerplate) A Foundation for Scalable Electron Apps
     - [Electron Boilerplate](https://github.com/sindresorhus/electron-boilerplate) Boilerplate for electron-node
     - [WhiteStormJS - React/Redux - three.js - TypeScript boilerplate](https://github.com/WhitestormJS/whitestorm-typescript-boilerplate) A starter kit for crafting 3D applications using modern technologies
+
+## TypeScript
+
+*Boilerplates and templates for TypeScript*
+
+- [TypeScript Boilerplate](https://github.com/metaloha/ts-boilerplate) A lightweight TypeScript boilerplate for TDD.
+- [Angular Boilerplate](https://github.com/metaloha/ngx-boilerplate) An opinionated boilerplate for an Angular application.
 
 ## Hybrid Mobile App Frameworks
 
