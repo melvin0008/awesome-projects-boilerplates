@@ -142,7 +142,8 @@ Curated list of boilerplates and templates to enhance productivity.
 - [AngularJS Rails Templates](https://github.com/pitr/angular-rails-templates) Rails and Angular Tempate.  
 - [AngularJS Sinatra Bootstrap](https://github.com/dannolan/angularjs-sinatra-bootstrap-template) Angular Sinatra Bootstrap template.
 - [Rails Composer](http://railsapps.github.io/rails-composer/) Use Rails Composer to generate any of the example applications from the RailsApps project.
-- [Rails Bootstrap](https://github.com/RailsApps/rails-bootstrap) Starter App for Rails and Bootstrap
+- [Rails Bootstrap](https://github.com/RailsApps/rails-bootstrap) Starter App for Rails and Bootstrap.
+- [Rails Tabler Starter](https://github.com/tarunvelli/rails-tabler-starter) - Starter that comes equipped with essential UI and db models.
 
 ## .NET
 
