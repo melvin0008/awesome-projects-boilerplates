@@ -105,8 +105,8 @@ Curated list of boilerplates and templates to enhance productivity.
 
 *Boilerplates and templates for TypeScript*
 
-- [TypeScript Boilerplate](https://github.com/metaloha/ts-boilerplate) A lightweight TypeScript boilerplate for TDD.
-- [Angular Boilerplate](https://github.com/metaloha/ngx-boilerplate) An opinionated boilerplate for an Angular application.
+- [TypeScript Boilerplate](https://github.com/russelporosky/ts-boilerplate) A lightweight TypeScript boilerplate for TDD.
+- [Angular Boilerplate](https://github.com/russelporosky/ngx-boilerplate) An opinionated boilerplate for an Angular application.
 
 ## Hybrid Mobile App Frameworks
 
