@@ -180,6 +180,7 @@ Curated list of boilerplates and templates to enhance productivity.
 - [Gulp front](https://zoxon.github.io/gulp-front/) Frontend boilerplate and framework based on gulp, pug, stylus and babel
 - [HTML Website Template](https://github.com/fulldecent/html-website-template) Starting point for collaboratively-edited HTML websites
 - [Nextjs Blog Starter](https://creativedesignsguru.com/demo/Nextjs-Blog-Boilerplate/) Starter code for your blog based on Next.js framework
+- [DirectoryKit](https://www.directorykit.xyz) Ready to use template for your Directory
 
 ##  IDE
 
