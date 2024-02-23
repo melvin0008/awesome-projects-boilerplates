@@ -64,6 +64,9 @@ Curated list of boilerplates and templates to enhance productivity.
     - [Node-Express-Mongoose Boilerplate](https://github.com/hagopj13/node-express-mongoose-boilerplate) - A boilerplate for building production-ready RESTful APIs using Node.js, Express, and Mongoose.
     - [Handlebars-Express Boilerplate](https://github.com/MohamedMoustafaNUIG/NodeExpressHbsScaffold) - JS web app boilerplate with Express and the handlebars view engine setup.
 
+- [Angular 17+](#angular)
+    - [ng-boilerplate](https://github.com/binarystarter/binarystarter-angular) Angular Full Stack Open Source Boilerplate Starter with Payload CMS, ExpressJs, Nx, Tailwindcss
+
 - [AngularJS](#angular-js)
     - [ng-boilerplate](https://github.com/ngbp/ngbp) An opinionated kickstarter for AngularJS projects.
     - [Yeoman Angular Generator](https://github.com/yeoman/generator-angular)
