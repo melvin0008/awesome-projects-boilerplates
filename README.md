@@ -52,9 +52,9 @@ Curated list of boilerplates and templates to enhance productivity.
 *Boilerplates and templates for JavaScript*
 
 - [Yeoman](https://github.com/yeoman) The web's scaffolding tool for modern webapps. Includes many generators to get started.
-- [Mega Boilerplate](https://github.com/sahat/megaboilerplate) Fullstack boilerplate generator with support for Node.js, a static site, or an Electron app. 
+- [Mega Boilerplate](https://github.com/sahat/megaboilerplate) Fullstack boilerplate generator with support for Node.js, a static site, or an Electron app.
 - [NodeJS](#node-js)
-    - [Yeoman Node Generator](https://github.com/yeoman/generator-node) Yeomans node generator   
+    - [Yeoman Node Generator](https://github.com/yeoman/generator-node) Yeomans node generator
     - [Node Module boilerplate](https://github.com/sindresorhus/node-module-boilerplate) Boilerplate to kickstart creating a node module
     - [Express Boilerplate](https://github.com/expressjs/generator) Boilerplate generator for Express.js Projects
     - [Hackathon Starter](https://github.com/sahat/hackathon-starter) A boilerplate for Node.js web applications.
@@ -139,7 +139,7 @@ Curated list of boilerplates and templates to enhance productivity.
 
 *Boilerplates and templates for Ruby*
 
-- [AngularJS Rails Templates](https://github.com/pitr/angular-rails-templates) Rails and Angular Tempate.  
+- [AngularJS Rails Templates](https://github.com/pitr/angular-rails-templates) Rails and Angular Tempate.
 - [AngularJS Sinatra Bootstrap](https://github.com/dannolan/angularjs-sinatra-bootstrap-template) Angular Sinatra Bootstrap template.
 - [Rails Composer](http://railsapps.github.io/rails-composer/) Use Rails Composer to generate any of the example applications from the RailsApps project.
 - [Rails Bootstrap](https://github.com/RailsApps/rails-bootstrap) Starter App for Rails and Bootstrap
@@ -180,6 +180,7 @@ Curated list of boilerplates and templates to enhance productivity.
 - [Gulp front](https://zoxon.github.io/gulp-front/) Frontend boilerplate and framework based on gulp, pug, stylus and babel
 - [HTML Website Template](https://github.com/fulldecent/html-website-template) Starting point for collaboratively-edited HTML websites
 - [Nextjs Blog Starter](https://creativedesignsguru.com/demo/Nextjs-Blog-Boilerplate/) Starter code for your blog based on Next.js framework
+- [NextReady](https://nextready.dev/) Ready to use Next.js templates for SaaS with TypeScript, Prisma, shadcn/ui, and more
 
 ##  IDE
 
