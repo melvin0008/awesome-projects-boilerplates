@@ -170,6 +170,7 @@ Curated list of boilerplates and templates to enhance productivity.
 
 *Boilerplates and templates for Websites*
 - [HTML5 Boilerplate](https://html5boilerplate.com/) Web's most popular front-end template
+- [JetShip Laravel Saas Boilerplate](https://demos.themeselection.com/jetship-laravel-boilerplate) Launch Your SaaS in Days with the Power of JetShip.
 - [Meteor boilerplate](https://github.com/Differential/meteor-boilerplate) Boilerplate for meteor framework.
 - [Web Starter Kit](https://github.com/google/web-starter-kit) Web starter kit by Google.
 - [Open Designs](http://www.opendesigns.org/) Open Source WebDesign Templates
