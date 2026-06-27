@@ -108,6 +108,7 @@ Curated list of boilerplates and templates to enhance productivity.
 ## Microservices
 
 - [Webstack-micro](https://github.com/ferbs/webstack-micro) Demo/starter for full-stack web app using microservices architecture, with API Gateway, centralized authentication, background workers, and WebSockets.
+- [SaaS Starter Lite](https://github.com/sayahweb2-png/saas-starter-lite) Production-ready NestJS + Angular SaaS boilerplate with JWT/OAuth/2FA auth, Stripe payments, multi-tenancy, RBAC, Docker, and Terraform.
 
 
 ## Python
