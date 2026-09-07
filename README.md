@@ -63,6 +63,7 @@ Curated list of boilerplates and templates to enhance productivity.
     - [Vue-Express-Mongo Boilerplate](https://github.com/icebob/vue-express-mongo-boilerplate) - Full stack JS web app boilerplate with Express, Mongo and VueJS)
     - [Node-Express-Mongoose Boilerplate](https://github.com/hagopj13/node-express-mongoose-boilerplate) - A boilerplate for building production-ready RESTful APIs using Node.js, Express, and Mongoose.
     - [Handlebars-Express Boilerplate](https://github.com/MohamedMoustafaNUIG/NodeExpressHbsScaffold) - JS web app boilerplate with Express and the handlebars view engine setup.
+    - [Hype Stack](https://github.com/BetterTyped/hype-stack) Free MIT fullstack SaaS monorepo: React+Hono+Vite+Postgres; Electron+Expo+browser extension; packs install as source.
 
 - [AngularJS](#angular-js)
     - [ng-boilerplate](https://github.com/ngbp/ngbp) An opinionated kickstarter for AngularJS projects.
