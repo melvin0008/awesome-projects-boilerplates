@@ -83,6 +83,7 @@ Curated list of boilerplates and templates to enhance productivity.
     - [React Redux minimal](https://github.com/flexdinesh/react-redux-boilerplate) A minimal React-Redux boilerplate with all the best practices
     - [React Redux Universal Hot Example](https://github.com/erikras/react-redux-universal-hot-example) A starter boilerplate for a universal webapp using express, react, redux, webpack, and react-transform
     - [post3ree-boilerplate](https://github.com/hex22a/post3ree-boilerplate) Boilerplate for a universal application using 3REE stack (React, Redux, RethinkDB, Express) + PostCSS
+    - [OTF SaaS Dashboard](https://otf-kit.dev/templates/saas-dashboard?utm_source=directory&utm_medium=organic&utm_campaign=awesome-listing&utm_content=2026-10-18-saas-projects-boilerplates) Production-ready Next.js and React SaaS starter kit with auth, Stripe billing, workspaces, and team management.
 - [HyperApp](#hyperapp)
     - [hyperapp-boilerplate](https://github.com/tzellman/hyperapp-boilerplate) Boilerplate showing how to create a production-ready Hyperapp application.
 - [Backbone](#backbone)
