@@ -52,6 +52,7 @@ Curated list of boilerplates and templates to enhance productivity.
 *Boilerplates and templates for JavaScript*
 
 - [Yeoman](https://github.com/yeoman) The web's scaffolding tool for modern webapps. Includes many generators to get started.
+- [Flisk](https://flisk.sh) Generates and runs your whole tech stack without the setup pain - one command from an empty folder to a running stack.
 - [Mega Boilerplate](https://github.com/sahat/megaboilerplate) Fullstack boilerplate generator with support for Node.js, a static site, or an Electron app. 
 - [NodeJS](#node-js)
     - [Yeoman Node Generator](https://github.com/yeoman/generator-node) Yeomans node generator   
